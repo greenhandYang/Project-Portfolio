@@ -8,4 +8,5 @@
 本项目曾荣获2024年中国大学生计算机设计大赛省级一等奖。由于项目依赖的云服务器租期已满，目前暂无法提供在线演示环境或完整可运行源码。
 但为了完整展示项目成果与设计思路，本仓库提供了：
 1、全程功能演示视频：涵盖核心业务流程与亮点功能
+<iframe src="//player.bilibili.com/player.html?bvid=BV1WcPKzDEmZ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 2、完整的技术文档：包含系统架构设计、数据库设计、系统关键界面截图、主要技术简介、算法介绍及测试报告
